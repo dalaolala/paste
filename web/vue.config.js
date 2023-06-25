@@ -24,7 +24,7 @@ const cdn = {
             "https://cdn.staticfile.org/highlight.js/11.1.0/highlight.min.js",
             "https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue.min.js",
             "https://cdn.staticfile.org/markdown-it/12.1.0/markdown-it.min.js",
-            "https://cdn.jsdelivr.net/npm/@chenfengyuan/vue-qrcode@1.0.2/dist/vue-qrcode.min.js",
+            "https://gcore.jsdelivr.net/npm/@chenfengyuan/vue-qrcode@1.0.2/dist/vue-qrcode.min.js",
             "https://cdn.staticfile.org/vue-i18n/8.25.0/vue-i18n.min.js"
         ]
     }
